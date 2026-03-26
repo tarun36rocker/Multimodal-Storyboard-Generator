@@ -1,0 +1,12 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+diffusers==0.25.0
+transformers==4.36.0
+torch==2.1.1
+safetensors==0.4.1
+accelerate==0.25.0
+requests==2.31.0
+pillow==10.1.0
+pydantic==2.5.0
+huggingface-hub==0.20.2
+llama-cpp-python==0.3.4
