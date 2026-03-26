@@ -1,26 +1,26 @@
-# 🎬 Multimodal AI Storyboard Generator
+# Multimodal AI Storyboard Generator
 
 An **AI-powered, multi-stage pipeline** for generating professional product storyboards using **LLMs + diffusion models**.
 Transform product ideas into structured scenes and visually coherent storyboards in minutes.
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 Creating storyboards for product presentations is time-consuming and often inconsistent.
 
 This project automates the entire workflow:
 
-* 🧠 Generate structured scenes from product input
-* 🛡️ Validate content using guardrail models
-* 🎨 Generate high-quality images using diffusion models
-* 🧩 Combine outputs into a complete storyboard
+*  Generate structured scenes from product input
+*  Validate content using guardrail models
+*  Generate high-quality images using diffusion models
+*  Combine outputs into a complete storyboard
 
-👉 Result: **Production-ready storyboards in minutes instead of hours**
+Result: **Production-ready storyboards in minutes instead of hours**
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
 * **Multimodal AI Pipeline** (LLM + Diffusion Models)
 * **Multi-Scene Storyboard Generation**
@@ -33,7 +33,7 @@ This project automates the entire workflow:
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ![Workflow](./flow.png)
 
@@ -61,7 +61,7 @@ This project follows a **multi-stage AI pipeline architecture**:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 
@@ -85,7 +85,7 @@ This project follows a **multi-stage AI pipeline architecture**:
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 ```bash
 git clone <your-repo-url>
@@ -111,7 +111,7 @@ Then open the UI and:
 
 ---
 
-## 📸 Example Workflow
+## Example Workflow
 
 1. Input product: *“Wireless Noise-Cancelling Headphones”*
 2. Generate scenes:
@@ -124,15 +124,15 @@ Then open the UI and:
 
 ---
 
-## 📊 Performance
+## Performance
 
-* ⏱️ ~30–60 sec per scene (SD v1.5)
-* 🎬 ~3–5 min for full storyboard (5 scenes)
-* 💾 Optimized for low VRAM GPUs (e.g., MX450)
+* ~30–60 sec per scene (SD v1.5)
+* ~3–5 min for full storyboard (5 scenes)
+* Optimized for low VRAM GPUs (e.g., MX450)
 
 ---
 
-## 🧩 Key Highlights
+## Key Highlights
 
 * **Multi-model orchestration** (LLM + diffusion + guardrails)
 * **Production-ready pipeline design**
@@ -141,7 +141,7 @@ Then open the UI and:
 
 ---
 
-## ⚠️ Notes
+## Notes
 
 * SDXL may require higher VRAM
 * For low-end GPUs, use **SD v1.5 with lower CFG and steps**
