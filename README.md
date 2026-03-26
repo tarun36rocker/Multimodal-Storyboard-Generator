@@ -146,10 +146,3 @@ Then open the UI and:
 * SDXL may require higher VRAM
 * For low-end GPUs, use **SD v1.5 with lower CFG and steps**
 * Guardrail models run locally via GGUF (llama.cpp)
-
----
-
-If you want, I can also:
-
-* Make this **look like a top 1% GitHub repo (badges, GIFs, demo section)**
-* Or tailor it specifically for **job applications / recruiters**
